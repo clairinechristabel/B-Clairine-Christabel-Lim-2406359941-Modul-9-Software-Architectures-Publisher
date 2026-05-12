@@ -11,3 +11,5 @@ Kesamaan URL "amqp://guest:guest@localhost:5672" tersebut merupakan hal yang san
 ![Running RabbitMQ as message broker.](image.png)
 
 ![Sending and processing event.](image-2.png)
+
+![Monitoring chart based on publisher.](image-3.png)
